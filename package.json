@@ -143,7 +143,7 @@
     "npm-run-all": "^4.1.2",
     "ora": "^2.1.0",
     "power-assert": "^1.6.1",
-    "prettier": "^1.18.2",
+    "prettier": "^2.6.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-native": "^0.61.2",
