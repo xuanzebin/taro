@@ -119,7 +119,7 @@
     "esbuild": "^0.14.27",
     "eslint": "^8.12.0",
     "eslint-config-prettier": "^6.4.0",
-    "eslint-config-standard": "^14.1.1",
+    "eslint-config-standard": "^17.0.0",
     "eslint-config-taro": "workspace:*",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jest": "^26.1.3",
